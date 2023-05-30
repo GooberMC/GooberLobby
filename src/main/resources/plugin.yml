@@ -1,0 +1,7 @@
+name: GooberLobby
+version: '${project.version}'
+main: dev.pizzaclient.gooberlobby.core.Main
+api-version: 1.19
+authors: [ PizzaClient ]
+description: Lobby Plugin for GooberMC
+website: https://gooberbot.us.to
